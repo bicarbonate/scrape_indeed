@@ -18,8 +18,8 @@
       <file leaf-file-name="scrape_ind.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrape_ind.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="376">
+              <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -312,11 +312,19 @@
       <option name="project" value="LOCAL" />
       <updated>1518923574687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Reddit change per: /u/auggielife #2">
+      <created>1519022618423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1519022618423</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="839" y="27" width="1073" height="1005" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1350826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -345,7 +353,8 @@
     <MESSAGE value="New project to scrap Indeed and plot to map" />
     <MESSAGE value="New" />
     <MESSAGE value="Reddit change per: /u/auggielife" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reddit change per: /u/auggielife" />
+    <MESSAGE value="Reddit change per: /u/auggielife #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reddit change per: /u/auggielife #2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -384,8 +393,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scrape_ind.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="376">
+          <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
